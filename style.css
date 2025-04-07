@@ -39,6 +39,7 @@
     border: 3px solid white;
     margin-bottom: 20px;
     animation: fadeIn 1.5s ease-in-out;
+    overflow:hidden;
 }
 
 .content h1 {
