@@ -28,14 +28,14 @@ This website showcases:
 
 📁 root/
 │
-├── 📄 index.html           
-├── 📁 Image/               
-│   ├── aman1.jpeg
-│   ├── aman2.png
-│   └── Abt.png, port.png, etc.
-├── 📁 portfolio/           
-│   └── about.html
-├── 📄 style.css            
+├── 📄 index.html 
+├── 📁 Image/ 
+│ ├── aman1.jpeg
+│ ├── aman2.png
+│ └── Abt.png, port.png, etc.
+├── 📁 portfolio/ 
+│ └── about.html
+├── 📄 style.css
 └── 📄 README.md            
 
 
