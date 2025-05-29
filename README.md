@@ -25,7 +25,7 @@ This website showcases:
 
 ## Project Structure
 
-
+```
 📁 root/
 │
 ├── 📄 index.html 
@@ -36,7 +36,8 @@ This website showcases:
 ├── 📁 portfolio/ 
 │ └── about.html
 ├── 📄 style.css
-└── 📄 README.md            
+└── 📄 README.md   
+```
 
 
 
